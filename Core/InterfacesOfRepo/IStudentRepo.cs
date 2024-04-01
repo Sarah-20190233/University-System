@@ -1,0 +1,17 @@
+﻿using Core.Models.DTOs;
+using Core.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Core.InterfacesOfRepo
+{
+    public interface IStudentRepo : IBaseRepo<Student>
+    {
+        Task<int> GetStudentCount();
+        Task<List<Student>> SearchStudents(string keyword);
+
+    }
+}
