@@ -102,8 +102,7 @@
               "RelativeToolTip": "Core\\Models\\Middleware.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T11:04:55.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T11:04:55.021Z"
             },
             {
               "$type": "Document",
@@ -119,10 +118,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RequestResponseLoggingMiddleware.cs",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Core\\Models\\RequestResponseLoggingMiddleware.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAwwG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T08:20:37.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T08:20:37.183Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "UniIntegrationTesting\\Systems\\Services\\TestStudentService.cs",
               "ViewState": "AQIAAGYAAAAAAAAAAAAYwKEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T10:46:47.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T10:46:47.285Z"
             },
             {
               "$type": "Document",
@@ -158,8 +151,7 @@
               "RelativeToolTip": "UniIntegrationTesting\\Systems\\Controllers\\TestStudentController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T07:26:20.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T07:26:20.006Z"
             },
             {
               "$type": "Document",
@@ -171,8 +163,7 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a37c49e813ab0c7002fad297470ff08a1764d8aa4d903709cfda844d338b8eec\\Program.cs",
               "ViewState": "AQIAAF8AAAAAAAAAAAAgwHgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T10:09:49.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T10:09:49.257Z"
             },
             {
               "$type": "Document",
@@ -184,8 +175,7 @@
               "RelativeToolTip": "Web Api\\Program.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAQwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T07:28:34.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T07:28:34.35Z"
             },
             {
               "$type": "Document",
@@ -197,8 +187,7 @@
               "RelativeToolTip": "Web Api\\Controllers\\StudentsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T12:05:46.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T12:05:46.418Z"
             },
             {
               "$type": "Document",
@@ -210,8 +199,7 @@
               "RelativeToolTip": "Web Api\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAUwFUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T08:48:00.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T08:48:00.437Z"
             },
             {
               "$type": "Document",
@@ -223,8 +211,7 @@
               "RelativeToolTip": "Service\\Services\\AuthService.cs",
               "ViewState": "AQIAAEYBAAAAAAAAAAAswFABAAB2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T08:48:25.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T08:48:25.504Z"
             },
             {
               "$type": "Document",
@@ -236,8 +223,7 @@
               "RelativeToolTip": "Repositry\\ApplicationDbContext.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwLQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T07:39:42.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T07:39:42.416Z"
             },
             {
               "$type": "Document",
@@ -261,8 +247,7 @@
               "RelativeToolTip": "Web Api\\appsettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-27T08:43:47.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T08:43:47.383Z"
             },
             {
               "$type": "Document",
@@ -299,6 +284,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T07:29:23.07Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
